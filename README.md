@@ -9,7 +9,7 @@
 ```bash
   1. Modifier le fichier "config.py"
   2. Lancer le script pour créer le schéma avec "start.bat"
-  3. Récuperer le schéma et l'insérer dans le script
+  3. Récuperer le schéma et l'insérer dans le fichier "script.user.js"
   4. Charger le script grâce à Tampermonkey/Greasemonkey
 ```
 
